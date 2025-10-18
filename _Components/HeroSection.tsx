@@ -138,7 +138,7 @@ Mon objectif est de rendre les processus de développement, de déploiement et d
             <div className="absolute inset-0 bg-gradient-to-br from-sky-400 to-emerald-400 rounded-full blur-2xl opacity-20"></div>
             <div className="relative bg-gradient-to-br from-white to-gray-50 rounded-full p-2 shadow-2xl">
               <img
-                src="/chams.jpeg"
+                src="./chams.jpeg"
                 alt="Photo de profil professionnelle"
                 className="w-full h-full object-cover rounded-full"
               />

@@ -8,25 +8,25 @@ export default function ProjectsSection() {
     {
       title: "Site Monitoring Platform",
       description: "Application Python/Django pour surveiller les sites web, certificats SSL, et d'autres éléments critiques des sites en temps réel.",
-      image: "/monitoring.png",
+      image: "./monitoring.png",
       tags: ["Python", "Django"],
     },
     {
       title: "AskMia - University Chatbot",
       description: "Chatbot universitaire développé avec Rasa, SQL et technologies web, permettant aux étudiants d'obtenir des réponses personnalisées aux questions fréquentes.",
-      image: "/chatbot.png",
+      image: "./chatbot.png",
       tags: ["Rasa", "YAML", "SQL", "HTML", "CSS", "JavaScript"],
     },
     {
       title: "Server Management & Automation Interface",
       description: "Interface web en MERN stack et infrastructure d'automatisation des serveurs avec Ansible, Grafana, Prometheus et Node Exporter.",
-      image: "/automatisation.png",
+      image: "./automatisation.png",
       tags: ["Ansible", "MERN", "Grafana", "Prometheus", "Node Exporter", "Bash", "RabbitMQ"],
     },
     {
       title: "Intelligent Cybersecurity & Supervision Platform",
       description: "Plateforme de supervision et cybersécurité combinant automatisation, visualisation de logs et interaction en langage naturel via interface web.",
-      image: "/security.png",
+      image: "./security.png",
       tags: ["Python", "FastAPI", "React.js", "Ansible", "Filebeat", "Grafana", "Prometheus", "Loki", "Rasa", "Docker", "Linux","Node Exporter"],
     }
   ];
