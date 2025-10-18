@@ -8,7 +8,7 @@ export default function AboutSection() {
   {
     icon: GraduationCap,
     title: "Éducation",
-    description: "Cycle ingénieur en informatique à Saint-Quentin-en-Yvelines",
+    description: "Cycle ingénieur en informatique à l’Institut Supérieur des Sciences et Technologies de Saint-Quentin-en-Yvelines.",
     color: "from-sky-500 to-sky-600"
   },
   {
@@ -58,7 +58,7 @@ export default function AboutSection() {
 >
 <div className="space-y-4 text-gray-600 leading-relaxed">
   <p>
-    Actuellement, je suis étudiante en <strong className="text-gray-800">ingénierie informatique</strong> à Saint-Quentin-en-Yvelines, où j’ai acquis une solide formation en développement, en automatisation et en gestion de projets techniques.
+    Actuellement, je suis étudiante en <strong className="text-gray-800">ingénierie informatique</strong> à l’Institut Supérieur des Sciences et Technologies de Saint-Quentin-en-Yvelines, où j’ai acquis une solide formation en développement, en automatisation et en gestion de projets techniques.
   </p>
   <p>
     Je m’intéresse particulièrement au domaine du <strong className="text-gray-800">DevSecOps</strong>, qui allie développement, sécurité et opérations. Mon objectif est de concevoir des pipelines sécurisés et intelligents permettant d’<strong className="text-gray-800">automatiser le déploiement, renforcer la sécurité et optimiser la supervision des systèmes</strong>.
