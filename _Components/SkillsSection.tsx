@@ -16,13 +16,13 @@ export default function SkillsSection() {
       title: "Backend",
       icon: Server,
       color: "from-emerald-500 to-emerald-600",
-      skills: ["Java", "Python3","Node.js", "Express", "MongoDB", "SQL", "PostgreSQL", "RESTful APIs", "Django", "FastAPI"]
+      skills: ["Java", "Python3","Node.js", "Express","PHP","C/C++", "MongoDB", "SQL", "PostgreSQL", "RESTful APIs", "Django", "FastAPI"]
     },
     {
       title: "Data & Tools",
       icon: Database,
       color: "from-purple-500 to-purple-600",
-      skills: ["Grafana", "Prometheus", "Loki", "Node Exporter", "Rasa", "RabbitMQ","Pandas", "NumPy", "scikit-learn","AWS","JUnit", "Docker", "Git", "Linux", "Jenkins", "Ansible"]
+      skills: ["Grafana", "Prometheus", "Loki","Flutter","Spark","Script Bash", "Node Exporter", "Rasa", "RabbitMQ","OpenMP","MapReduce","Pandas", "NumPy", "scikit-learn","AWS","JUnit", "Docker", "Git", "Linux", "Jenkins", "Ansible"]
     }
   ];
 
